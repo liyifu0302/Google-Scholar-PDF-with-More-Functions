@@ -26,3 +26,23 @@ Annotate PDF files freely with a built-in drawing tool.
 
 ## New Features Planed🆕🆕🆕
 Coming Soon!
+
+## Installation
+
+Note: If you have the original Google Scholar PDF Reader extension installed, uninstall it before proceeding.
+
+
+## 1. Download the latest release (select Source code under Assets).
+## 2. Extract the ZIP file to a local folder.
+## 3. Open your browser's extension management page:
+
+  Chrome: chrome://extensions
+  Edge: edge://extensions
+  Brave: brave://extensions
+  Other: consult your browser's documentation for the extension management page.
+
+
+## Enable Developer mode if it is not already active (typically a toggle in the top-right corner).
+## Click Load unpacked and select the extension folder inside the extracted ZIP file.
+
+## Enjoy! 🍾🍾🍾
