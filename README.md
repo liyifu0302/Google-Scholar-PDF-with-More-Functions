@@ -6,3 +6,6 @@ Display two pages side by side for a more comfortable reading experience.
 Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing you to quickly locate relevant sections throughout the document.
 ## 3. Drawing Tool
 Annotate PDF files freely with a built-in drawing tool.
+
+New Features:
+Coming Soon
