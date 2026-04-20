@@ -11,5 +11,5 @@ Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing 
 ## 5. Drawing Tool
 Annotate PDF files freely with a built-in drawing tool.
 
-## New Features:
-Coming Soon
+## New Features Planed:
+Coming Soon!
