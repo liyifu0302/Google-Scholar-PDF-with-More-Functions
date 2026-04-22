@@ -8,10 +8,8 @@ Hope this extension will be helpful!
 
 ## 2. Hover Preview 📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
-
 You can now display multiple preview windows at once and drag them freely.
-
-<img width="2207" height="1472" alt="a7547adf-bfa3-42c9-bb60-8b425bb6651a" src="https://github.com/user-attachments/assets/ee59c6e2-a244-449c-b30e-dc1ec733495a" />
+<img width="2658" height="1842" alt="e90bb110-78e0-4a6e-8aa6-8d02c2e458b2" src="https://github.com/user-attachments/assets/24288d78-1fe6-416d-b3ad-e7e14977485e" />
 
 ## 3. Direct Author Access 🔍🔍🔍
 Hover over an author’s name to preview their Google Scholar profile. Click the preview to open the profile directly, with no need to search for it yourself.
